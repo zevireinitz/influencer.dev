@@ -1,13 +1,22 @@
-# What is this?
+# Dev Influencer Directory 
 
-Influencers are great
+This is a list of dev influencers (people who have built an audience for their dev-centric content). It's a marketplace where the supply and demand for dev-focused influencer content can meet one another.
 
-## What makes someone an Influencer?
+**Here's how it works:**
+- If you create content for developers and you're open to collaborations - add yourself to the list below.
+- If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
+
+## Why I built this
+
+As head of marketing at Livecycle, I learned that influencer marketing is one of the most effective ways to promote a product or developer tool. There are lots of talented folks out there who have built audiences in their areas of interest and expertise, and collaborating with the right people can help you get in front of the technical audience you're looking for. The challenge is 
+
+and somThere are lots of talented people creating content and building audiences. And there are people/companies building developer-focused productd who would love  producr 
+
 
 Influencers are greatV
 
 
-## What makes someone an Influencer?
+## What the columns mean
 
 - **Name** = Name + Github profile link
 - **Focus** = The main topics they like to talk about
