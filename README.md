@@ -10,11 +10,11 @@ _**It's hard for each of these two groups to find what they're looking for.**_
 
 That's why I've started this project. It's an open-source database of dev influencers (people who have built an audience for their dev-centric content). My hope is that this will make it easier for the content creators to promote their work and make it easier for the companies/builders to find the right partners for promoting their products. 
 
-## **How it works:**
+# **How it works:**
 - If you create content for developers and you're open to collaborations - add yourself to the list below.
 - If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
 
-## **Who is a "Dev Influencer"?**
+# **Who is a "Dev Influencer"?**
 For the purposes of this project, you are a dev-influencer if:
 - You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
 - You have specific technical areas of expertise that you focus on with your content
@@ -39,7 +39,7 @@ and somThere are lots of talented people creating content and building audiences
 Influencers are greatV
 
 
-## What the columns mean
+# What the columns mean
 
 - **Name** = Name + Github profile link
 - **Focus** = The main topics they like to talk about
