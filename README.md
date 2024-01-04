@@ -14,12 +14,13 @@ That's why I've started this project. It's an open-source database of dev influe
 - If you create content for developers and you're open to collaborations - add yourself to the list below.
 - If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
 
-## **Who is a "Dev Influencer"**
-For the purposes of this project, you are a dev-influencer if you:
-- Consistently create quality content for developers
+## **Who is a "Dev Influencer"?**
+For the purposes of this project, you are a dev-influencer if:
+- You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
 - You have specific technical areas of expertise that you focus on with your content
-- You publish your content under your own name/brand (and not as a ghostwriter) on mainstream platforms
+- You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
 - You are interested in working with brands/companies to create content related to their dev-focused products
+
   
 -  content
 
