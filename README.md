@@ -1,8 +1,7 @@
 # Dev Influencer Directory 
 The world's leading dev influencer database
 
-# TL;DR:
-
+# TL;DR
 - Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
 - Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
 
@@ -10,7 +9,7 @@ _**It's hard for each of these two groups to find what they're looking for.**_
 
 That's why I've started this project. It's an open-source database of dev influencers (people who have built an audience for their dev-centric content). My hope is that this will make it easier for the content creators to promote their work and make it easier for the companies/builders to find the right partners for promoting their products. 
 
-# **How it works:**
+# **How it works**
 - If you create content for developers and you're open to collaborations - add yourself to the list below.
 - If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
 
@@ -20,24 +19,6 @@ For the purposes of this project, you are a dev-influencer if:
 - You have specific technical areas of expertise that you focus on with your content
 - You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
 - You are interested in working with brands/companies to create content related to their dev-focused products
-
-  
--  content
-
-You should add yourself to the list of you 
-- 
-Lots of developers create good content and have built niche audiences.
-Lots of companies/makers look for the right people to help them promote their dev-focused product or tool. 
-
-I could not find a marketplace where these two groups could meet one another, so I've decided to built it myself.
-
-As head of marketing at Livecycle, I learned that influencer marketing is one of the most effective ways to promote a product or developer tool. There are lots of talented folks out there who have built audiences in their areas of interest and expertise, and collaborating with the right people can help you get in front of the technical audience you're looking for. The challenge is 
-
-and somThere are lots of talented people creating content and building audiences. And there are people/companies building developer-focused productd who would love  producr 
-
-
-Influencers are greatV
-
 
 # What the columns mean
 
@@ -60,6 +41,23 @@ Influencers are greatV
 | [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@zevireinitz)](https://twitter.com/zevireinitz) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/zevir) | [Portfolio](https://zevi.super.site/) |
 | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 50k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumnasaraf)](https://twitter.com/pradumnasaraf) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
+
+
+-  content
+
+You should add yourself to the list of you 
+- 
+Lots of developers create good content and have built niche audiences.
+Lots of companies/makers look for the right people to help them promote their dev-focused product or tool. 
+
+I could not find a marketplace where these two groups could meet one another, so I've decided to built it myself.
+
+As head of marketing at Livecycle, I learned that influencer marketing is one of the most effective ways to promote a product or developer tool. There are lots of talented folks out there who have built audiences in their areas of interest and expertise, and collaborating with the right people can help you get in front of the technical audience you're looking for. The challenge is 
+
+and somThere are lots of talented people creating content and building audiences. And there are people/companies building developer-focused productd who would love  producr 
+
+
+Influencers are greatV
 
 
 
