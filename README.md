@@ -1,12 +1,34 @@
 # Dev Influencer Directory 
+The world's leading dev influencer database
 
-This is a list of dev influencers (people who have built an audience for their dev-centric content). It's a marketplace where the supply and demand for dev-focused influencer content can meet one another.
+# TL;DR:
 
-**Here's how it works:**
+- Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
+- Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
+
+_**It's hard for each of these two groups to find what they're looking for.**_
+
+That's why I've started this project. It's an open-source database of dev influencers (people who have built an audience for their dev-centric content). My hope is that this will make it easier for the content creators to promote their work and make it easier for the companies/builders to find the right partners for promoting their products. 
+
+## **How it works:**
 - If you create content for developers and you're open to collaborations - add yourself to the list below.
 - If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
 
-## Why I built this
+## **Who is a "Dev Influencer"**
+For the purposes of this project, you are a dev-influencer if you:
+- Consistently create quality content for developers
+- You have specific technical areas of expertise that you focus on with your content
+- You publish your content under your own name/brand (and not as a ghostwriter) on mainstream platforms
+- You are interested in working with brands/companies to create content related to their dev-focused products
+  
+-  content
+
+You should add yourself to the list of you 
+- 
+Lots of developers create good content and have built niche audiences.
+Lots of companies/makers look for the right people to help them promote their dev-focused product or tool. 
+
+I could not find a marketplace where these two groups could meet one another, so I've decided to built it myself.
 
 As head of marketing at Livecycle, I learned that influencer marketing is one of the most effective ways to promote a product or developer tool. There are lots of talented folks out there who have built audiences in their areas of interest and expertise, and collaborating with the right people can help you get in front of the technical audience you're looking for. The challenge is 
 
