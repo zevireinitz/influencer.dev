@@ -2,8 +2,9 @@
 The world's leading dev influencer database
 
 # TL;DR
-- Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
-- Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
+Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
+
+Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
 
 _**It's hard for each of these two groups to find what they're looking for.**_
 
