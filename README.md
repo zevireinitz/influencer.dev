@@ -21,6 +21,7 @@ Influencers are greatV
 
 | Name | Focus | Reach | Channels | Link |
 | --------------- | ---------- | :-------: | ---------- | :-------: |
+| [Bret Fisher](https://github.com/eddiejaoude) | `DevOps` `Kubernetes` `Docker` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@eddiejaoude)](https://twitter.com/eddiejaoude) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/eddiejaoude) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiejaoude/) | [Portfolio](https://www.bretfisher.com/) |
 | [Eddie Jaoude](https://github.com/eddiejaoude) | `Open Source` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@eddiejaoude)](https://twitter.com/eddiejaoude) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/eddiejaoude) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiejaoude/) | [Portfolio](https://www.eddiejaoude.io/) |
 | [Pratham Kumar](https://github.com/prathamkumar14) | `Devtools` `Web Dev` | 430k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@prathkum)](https://twitter.com/prathkum) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathkum) | [Portfolio](https://www.prathamkumar.com/) |
 | [Kunal Kushwaha](https://github.com/kunal-kushwaha) | `DevOps` `Kubernetes` | 1 MM | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@kunalstwt)](https://twitter.com/kunalstwt) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kunalkushwaha) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kushwaha) | [Community](https://wemakedevs.org/) |
@@ -28,17 +29,5 @@ Influencers are greatV
 | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 50k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumnasaraf)](https://twitter.com/pradumnasaraf) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
 
-Eddie Jaoude
-
-https://www.prathamkumar.com/
 
 
-| [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) | ![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) |
-<br>
-
-# The Up and Coming Talent
-
-| Name | Expertise | Total reach | Channels | Portfolio |
-| --------------- | ---------- | ------- | ---------- | ------- |
-| [Zevi Reinitz](https://github.com/zevireinitz) | `DevOps` `Docker` | 50k | ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) | ![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) |
-| Pradumna Saraf | `DevOps` `Docker` | 50k | ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) | ![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) |
