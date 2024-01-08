@@ -25,7 +25,7 @@ For the purposes of this project, you are a dev-influencer if:
 
 - **Name** = Name + Github profile link
 - **Focus** = The main topics they like to talk about
-- **Reach** = Total (estimated) number of followers/subscribers across their main channels
+- **Audience** = Total (estimated) number of followers/subscribers across their main channels
 - **Channels** = The main channels used for pushing content
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
@@ -33,7 +33,7 @@ For the purposes of this project, you are a dev-influencer if:
 
 # The Influencers
 
-| Name | Focus | Reach | Channels | Link |
+| Name | Focus | Audience | Channels | Link |
 | --------------- | ---------- | :-------: | ---------- | :-------: |
 | [Bret Fisher](https://github.com/eddiejaoude) | `DevOps` `Kubernetes` `Docker` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@eddiejaoude)](https://twitter.com/eddiejaoude) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/eddiejaoude) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiejaoude/) | [Portfolio](https://www.bretfisher.com/) |
 | [Eddie Jaoude](https://github.com/eddiejaoude) | `Open Source` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@eddiejaoude)](https://twitter.com/eddiejaoude) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/eddiejaoude) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiejaoude/) | [Portfolio](https://www.eddiejaoude.io/) |
@@ -43,22 +43,6 @@ For the purposes of this project, you are a dev-influencer if:
 | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 50k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumnasaraf)](https://twitter.com/pradumnasaraf) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
 
-
--  content
-
-You should add yourself to the list of you 
-- 
-Lots of developers create good content and have built niche audiences.
-Lots of companies/makers look for the right people to help them promote their dev-focused product or tool. 
-
-I could not find a marketplace where these two groups could meet one another, so I've decided to built it myself.
-
-As head of marketing at Livecycle, I learned that influencer marketing is one of the most effective ways to promote a product or developer tool. There are lots of talented folks out there who have built audiences in their areas of interest and expertise, and collaborating with the right people can help you get in front of the technical audience you're looking for. The challenge is 
-
-and somThere are lots of talented people creating content and building audiences. And there are people/companies building developer-focused productd who would love  producr 
-
-
-Influencers are greatV
-
-
+# Add your name to the list
+Think you (or someone you know) should be on this list? Raise an issue here and send your suggestions. We can't guarantee that every suggestion will be included, but we try our best to include as many as possible, based on the guidelines above above.
 
