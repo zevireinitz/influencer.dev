@@ -44,9 +44,9 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
 # Add Yourself to the List
-Think you (or someone you know) should be on this list? Here's how to do that:
+Do you (or someone you know) want to be listed here? Here's how to apply:
 - ⭐ Star this repo (this helps more people find this list)
-- 🙋‍♂️ Raise an issue here with the details
+- 🙋‍♂️ Raise an issue here with the relevant details
 
 We review the details of each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
 
