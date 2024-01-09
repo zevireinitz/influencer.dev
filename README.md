@@ -48,5 +48,5 @@ Think you (or someone you know) should be on this list? Here's how to do that:
 - ⭐ Star this repo (this helps spread the word)
 - 🙋‍♂️ Raise an issue here with the details
 
-We are currently reviewing each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
+We review the details of each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
 
