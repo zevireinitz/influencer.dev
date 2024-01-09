@@ -16,12 +16,12 @@ That's the problem we're solving with influencer.dev - a growing database of dev
 ![win-win](https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3)
 
 # **Who is a "Dev Influencer"?**
-You are a dev-influencer if you check the following boxes:
+For the purposes of this database, you are a dev-influencer if you check the following boxes:
 - ✅ You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
 - ✅ You have specific technical areas of expertise that you focus on with your content
 - ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
 - ✅ You are interested in working with brands/companies to create content related to their dev-focused products
-
+- 💡 _Note that we didn't mention audience size. We don't care about how many followers you have. As long as you can demonstrate that you are creating quality, technical content for a technical audience, you're eligible to be included in the list._  
 <br>
 
 # The Influencers
