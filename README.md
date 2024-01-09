@@ -46,4 +46,3 @@ For the purposes of this project, you are a dev-influencer if:
 
 # Add your name to the list
 Think you (or someone you know) should be on this list? Raise an issue here and send your suggestions. We can't guarantee that every suggestion will be included, but we try our best to include as many as possible, based on the guidelines above above.
-
