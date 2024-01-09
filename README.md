@@ -11,7 +11,7 @@ Lots of companies are looking for the right influencers and content creators to 
 
 _**But it's hard for these two groups to find each other.**_
 
-That's the problem we're solving with influencer.dev - a growing database of dev influencers. It's an open-source marketplace that allows technical influencers/content creators to promote themselves and makes it easy for companies/builders to connect with the creators most relevant to their target audience.
+That's the problem we're solving with influencer.dev. It's an open-source marketplace that allows technical influencers/content creators to promote themselves and makes it easy for companies/builders to connect with the creators most relevant to their target audience.
 
 ![win-win](https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3)
 
