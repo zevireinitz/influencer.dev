@@ -17,20 +17,13 @@ body:
       options:
         - Open Source
         - DevOps
-        - Frontend
-        - Backend
-        - Fullstack
-        - Mobile
         - Data Science
         - Machine Learning
         - AI
         - Kubernetes
         - Docker
-        - Blockchain
         - Security
-        - Cloud
-        - DevRel
-        - Developer Marketing
+        - Dev Marketing
         - Other
       default: 0
     validations:
