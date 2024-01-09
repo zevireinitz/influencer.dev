@@ -11,8 +11,8 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: What is your niche?
+      description: Please select your niche
       multiple: true
       options:
         - Open Source
