@@ -1,27 +1,27 @@
 # Welcome to influencer.dev 👋
 
-**influencer.dev is a directory of "Dev Influencers" (technical humans who create quality content for a dev-centric audience).**
+**influencer.dev is a directory of "Dev Influencers" (technical humans who create quality content for their dev-centric audience).**
 - If you create content for developers and you're open to collaborations - you belong on the list below.
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
 # Why we built this
 Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are open to collaborations.
 
-Lots of companies are looking for the right influencers and content creators to review and promote their dev-focused products.
+Lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
 
 _**But it's hard for these two groups to find each other.**_
 
-That's the problem we're solving with influencer.dev - an open-source marketplace for dev-centric content creation. It allows technical influencers/content creators to promote themselves and enables companies/builders to easily connect with the creators most relevant to their target audience.
+That's the problem we're solving with influencer.dev - an open-source marketplace for dev-centric content creation and collaboration. It allows technical content creators to promote themselves to relevant brands and it enables brands to easily connect with the most relevant creators for their target audience.
 
 ![win-win](https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3)
 
 # **Who is a "Dev Influencer"?**
-For the purposes of this database, you are a dev-influencer if you check the following boxes:
+You are a "Dev Influencer" in our eyes if you check the following boxes:
 - ✅ You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
 - ✅ You have specific technical areas of expertise that you focus on with your content
 - ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
 - ✅ You are interested in working with brands/companies to create content related to their dev-focused products
-- 💡 _Note that we didn't mention audience size. We don't care about how many followers you have. As long as you can demonstrate that you are creating quality, technical content for a technical audience, you're eligible to be included in the list._  
+- 💡 _Note that we didn't say anything about audience size. We don't care about how many followers you have. As long as you can demonstrate that you are publishing quality, technical content for a technical audience under your own name, you're eligible to be included in the list._  
 <br>
 
 # The Dev Influencers
@@ -42,6 +42,17 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 - **Audience** = Total (estimated) number of followers/subscribers across their main channels
 - **Channels** = The main channels used for pushing content (there might be more than what you see here)
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
+
+# Why Dev Influencers are Important
+Dev influencers are important because developers appreciate authenticity. 
+
+This list is a collection of humans who have built an audience and earned a reputation for their expertise in a specific area. Their ability to speak with clarity, authority, and consistency about a particular topic makes them trusted advisors to the people who consume their content. 
+
+Connecting with the right influencer can help brands/companies in several ways:
+- Get pro-grade feedback 
+- Introduce their products to a target audience in a trusted, non-'salesy' way
+- Generate authentic testimonials and product reviews
+- And more...
 
 # Add Yourself to the List
 Do you (or someone you know) want to be listed here? Here's how to apply:
