@@ -1,7 +1,10 @@
-# Dev Influencer Directory 
-The world's leading dev influencer database
+# Welcome to influencer.dev 👋
 
-# TL;DR
+This is a directory of "Dev Influencers" - technical people who create quality content for a technical audience. 
+- If you create content for developers and you're open to collaborations - you belong on the list below.
+- If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
+
+# Why we built this
 Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
 
 Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
@@ -10,16 +13,12 @@ _**It's hard for each of these two groups to find what they're looking for.**_
 
 That's why I've started this project. It's an open-source database of dev influencers (people who have built an audience for their dev-centric content). My hope is that this will make it easier for the content creators to promote their work and make it easier for the companies/builders to find the right partners for promoting their products. 
 
-# **How it works**
-- If you create content for developers and you're open to collaborations - add yourself to the list below.
-- If you're looking for someone to create dev-centric content for/about your company or product - check out the list below.
-
 # **Who is a "Dev Influencer"?**
-For the purposes of this project, you are a dev-influencer if:
-- You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
-- You have specific technical areas of expertise that you focus on with your content
-- You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
-- You are interested in working with brands/companies to create content related to their dev-focused products
+You are a dev-influencer if you check the following boxes:
+- ✅ You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
+- ✅ You have specific technical areas of expertise that you focus on with your content
+- ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
+- ✅ You are interested in working with brands/companies to create content related to their dev-focused products
 
 # What the columns mean
 
