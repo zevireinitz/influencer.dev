@@ -23,7 +23,7 @@ body:
         - Other 
     validations:
       required: true
-  - type: Your socials and portfolio
+  - type: textarea
     id: socials
     attributes:
       label: Please add your socials and portfolio
