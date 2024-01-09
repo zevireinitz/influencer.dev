@@ -23,8 +23,9 @@ For the purposes of this project, you are a dev-influencer if:
 
 # What the columns mean
 
+- **Profile Picture** = A link to a profile picture
 - **Name** = Name + Github profile link
-- **Focus** = The main topics they like to talk about
+- **Niche** = The main topics they like to talk about
 - **Audience** = Total (estimated) number of followers/subscribers across their main channels
 - **Channels** = The main channels used for pushing content
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
@@ -33,7 +34,7 @@ For the purposes of this project, you are a dev-influencer if:
 
 # The Influencers
 
-| Profile Picture | Name | Focus | Audience | Channels | Link |
+| Profile Picture | Name | Niche | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
 | <img src="https://github.com/bretfisher.png" width="100" height="100"> | [Bret Fisher](https://github.com/bretfisher) | `DevOps` `Kubernetes` `Docker` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@bretfisher)](https://twitter.com/bretfisher) <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BretFisher) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bretefisher/) | [Portfolio](https://www.bretfisher.com/) |
 | <img src="https://github.com/eddiejaoude.png" width="100" height="100"> | [Eddie Jaoude](https://github.com/eddiejaoude) | `Open Source` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@eddiejaoude)](https://twitter.com/eddiejaoude) <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/eddiejaoude) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddiejaoude/) | [Portfolio](https://www.eddiejaoude.io/) |
