@@ -47,6 +47,7 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 Think you (or someone you know) should be on this list? 
 - Star this repo
 - Raise an issue here to send us your suggestions
+
 We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as possible, based on the guidelines above above.
 
 
