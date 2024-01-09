@@ -11,7 +11,7 @@ At the same time, lots of brands are looking for the right influencers and conte
 
 _**But it's hard for these two groups to find each other.**_
 
-That's the problem we're solving with influencer.dev - an open-source marketplace for dev-centric content creation and collaboration. It allows technical content creators to promote themselves to relevant brands and it enables brands to easily connect with the most relevant creators for their target audience.
+That's the problem we're solving with influencer.dev - an open-source marketplace for dev influencer collaboration. It allows technical content creators to promote themselves to relevant brands and it enables brands to easily connect with the most relevant creators for their target audience.
 
 ![win-win](https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3)
 
