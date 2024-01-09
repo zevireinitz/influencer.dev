@@ -1,6 +1,6 @@
 # Welcome to influencer.dev 👋
 
-**This is a directory of "Dev Influencers" - technical people who create quality content for a technical audience.**
+**A directory of "Dev Influencers" - technical people who create quality content for a technical audience.**
 - If you create content for developers and you're open to collaborations - you belong on the list below.
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
