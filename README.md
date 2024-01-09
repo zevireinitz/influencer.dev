@@ -5,9 +5,9 @@
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
 # Why We Built This
-Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are open to collaborations.
+Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are alo open to collaborations.
 
-Lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
+At the same time, lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
 
 _**But it's hard for these two groups to find each other.**_
 
