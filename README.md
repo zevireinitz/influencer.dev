@@ -4,7 +4,7 @@
 - If you create content for developers and you're open to collaborations - you belong on the list below.
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
-# Why we built this
+# Why We Built This
 Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are open to collaborations.
 
 Lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
