@@ -49,8 +49,8 @@ Simply put - dev influencers are important because developers appreciate _**auth
 This list is a collection of humans who have built an audience (big or small) and earned a reputation for their expertise in a specific area. Their ability to speak with clarity, authority, and consistency about a particular topic makes them trusted advisors to the people who consume their content. 
 
 Connecting with the right influencer can help brands/companies in several ways:
-- Get pro-grade feedback 
-- Introduce their products to a target audience in a trusted, non-'salesy' way
+- Get pro-grade product feedback 
+- Introduce products to a niche target audience in a trusted, non-'salesy' way
 - Generate authentic testimonials and product reviews
 - And more...
 
