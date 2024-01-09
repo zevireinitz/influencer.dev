@@ -43,7 +43,7 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 - **Channels** = The main channels used for pushing content (there might be more than what you see here)
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
-# Add your name to the list
+# Add Yourself to the List
 Think you (or someone you know) should be on this list? Here's how to do that:
 - ⭐ Star this repo (this helps more people find this list)
 - 🙋‍♂️ Raise an issue here with the details
