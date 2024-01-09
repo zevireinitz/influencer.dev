@@ -24,7 +24,7 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 - 💡 _Note that we didn't mention audience size. We don't care about how many followers you have. As long as you can demonstrate that you are creating quality, technical content for a technical audience, you're eligible to be included in the list._  
 <br>
 
-# The Influencers
+# The Dev Influencers
 
 | Name | Focus | Audience | Channels | Link |
 | --------------- | ---------- | :-------: | ---------- | :-------: |
