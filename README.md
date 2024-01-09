@@ -5,13 +5,12 @@ This is a directory of "Dev Influencers" - technical people who create quality c
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
 # Why we built this
-Lots of developers create good content and have built niche audiences. Many of them are looking for collaboration opportunities.
+Lots of technical folks have built niche audiences around their content. Many of these folks are open to collaborations.
+Lots of companies look for the right influencers and content creators to help them review and promote their dev-focused products.
 
-Lots of companies/makers look for the right people to help them promote their dev-focused product or tool.
+_**But there's no good way for these two groups to find each other.**_
 
-_**It's hard for each of these two groups to find what they're looking for.**_
-
-That's why I've started this project. It's an open-source database of dev influencers (people who have built an audience for their dev-centric content). My hope is that this will make it easier for the content creators to promote their work and make it easier for the companies/builders to find the right partners for promoting their products. 
+This project aims to solve that problem by maintaining an open-source database of dev influencers. This allows technical influencers/content creators to promote themselves and it makes it much easier for the companies/builders to find the relevant influencer partners. It's a marketplace that should be a win-win for everyone involved.
 
 # **Who is a "Dev Influencer"?**
 You are a dev-influencer if you check the following boxes:
