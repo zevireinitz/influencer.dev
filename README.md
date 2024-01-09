@@ -5,13 +5,13 @@ This is a directory of "Dev Influencers" - technical people who create quality c
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
 # Why we built this
-Lots of technical folks have built niche audiences around their content (making them "dev influencers). Many of these influencers are open to collaborations.
+Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are open to collaborations.
 
 Lots of companies are looking for the right influencers and content creators to review and promote their dev-focused products.
 
 _**But it's hard for these two groups to find each other.**_
 
-This project aims to solve that problem by maintaining an open-source database of dev influencers. This allows technical influencers/content creators to promote themselves and it makes it much easier for the companies/builders to find the relevant influencer partners. It's a marketplace that should be a win-win for everyone involved.
+That's the problem we're solving with influencer.dev - a growing database of dev influencers. It's an open-source marketplace that allows technical influencers/content creators to promote themselves and makes it easy for companies/builders to connect with the creators most relevant to their target audience.
 
 # **Who is a "Dev Influencer"?**
 You are a dev-influencer if you check the following boxes:
@@ -19,14 +19,6 @@ You are a dev-influencer if you check the following boxes:
 - ✅ You have specific technical areas of expertise that you focus on with your content
 - ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
 - ✅ You are interested in working with brands/companies to create content related to their dev-focused products
-
-# What the columns mean
-
-- **Name** = Name + Github profile link
-- **Focus** = The main topics they like to talk about
-- **Audience** = Total (estimated) number of followers/subscribers across their main channels
-- **Channels** = The main channels used for pushing content
-- **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
 <br>
 
@@ -41,6 +33,13 @@ You are a dev-influencer if you check the following boxes:
 | [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@zevireinitz)](https://twitter.com/zevireinitz) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/zevir) | [Portfolio](https://zevi.super.site/) |
 | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 50k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumnasaraf)](https://twitter.com/pradumnasaraf) [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
+# What the columns mean
+
+- **Name** = Name + Github profile link
+- **Focus** = The main topics they like to talk about
+- **Audience** = Total (estimated) number of followers/subscribers across their main channels
+- **Channels** = The main channels used for pushing content
+- **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
 # Add your name to the list
 Think you (or someone you know) should be on this list? 
