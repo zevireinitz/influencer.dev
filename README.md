@@ -40,13 +40,13 @@ For the purposes of this database, you are a dev-influencer if you check the fol
 - **Name** = Name + Github profile link
 - **Focus** = The main topics they like to talk about
 - **Audience** = Total (estimated) number of followers/subscribers across their main channels
-- **Channels** = The main channels used for pushing content
+- **Channels** = The main channels used for pushing content (there might be more than what you see here)
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
 # Add your name to the list
-Think you (or someone you know) should be on this list? 
-- Star this repo
-- Raise an issue here to send us your suggestions
+Think you (or someone you know) should be on this list? Here's how to do that:
+- ⭐ Star this repo (this helps spread the word)
+- 🙋‍♂️ Raise an issue here to send us the details
 
 We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as possible, based on the guidelines above above.
 
