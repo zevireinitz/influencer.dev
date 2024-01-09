@@ -1,6 +1,6 @@
 name: List my profile
 description: Add your name to the list of most qulified dev influencers in the world
-title: "<Your Name>"
+title: "Add my name to the list - <your name>"
 labels: ["profile"]
 body:
   - type: input
@@ -40,9 +40,11 @@ body:
       description: Please add your socials and portfolio
       value: |
         - Twitter:https://twitter.com/zevireinitz
-        - GitHub: 
-        - LinkedIn:
-        - Portfolio:
+        - GitHub: https://twitter.com/ZeviReinitz
+        - LinkedIn: https://www.linkedin.com/in/zevi
+        - Portfolio: https://zevi.super.site
+        -
+        -
     validations:
       required: false
   - type: markdown
