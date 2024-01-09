@@ -9,18 +9,28 @@ body:
       description: Please enter your full name
     validations:
       required: true
-  - type: checkboxes
-    id: browser
+  - type: dropdown
     attributes:
-      label: Which browsers are affected?
-      description: Check all that apply
+      label: Version
+      description: What version of our software are you running?
+      multiple: true
       options:
-        - Chrome
-        - Firefox
-        - Safari
-        - Edge
-        - IE11
-        - Other 
+        - Open Source
+        - DevOps
+        - Frontend
+        - Backend
+        - Fullstack
+        - Mobile
+        - Data Science
+        - Machine Learning
+        - AI
+        - Blockchain
+        - Security
+        - Cloud
+        - DevRel
+        - Developer Marketing
+        - Other
+      default: 0
     validations:
       required: true
   - type: textarea
