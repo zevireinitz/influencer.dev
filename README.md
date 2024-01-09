@@ -44,7 +44,7 @@ You are a "Dev Influencer" in our eyes if you check the following boxes:
 - **Link** = A link to their main landing page with more information about their services and collaboration opportunities
 
 # Why Dev Influencers are Important
-Dev influencers are important because developers appreciate authenticity. 
+Simply put - dev influencers are important because developers appreciate _**authenticity**_. 
 
 This list is a collection of humans who have built an audience and earned a reputation for their expertise in a specific area. Their ability to speak with clarity, authority, and consistency about a particular topic makes them trusted advisors to the people who consume their content. 
 
