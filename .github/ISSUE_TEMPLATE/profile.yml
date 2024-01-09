@@ -1,0 +1,41 @@
+name: List my profile
+description: Add your name to the list of most qulified dev influencers in the world
+title: "<Your Name>"
+labels: ["profile"]
+body:
+  - type: input
+    attributes:
+      label: What is your name?
+      description: Please enter your full name
+    validations:
+      required: true
+  - type: checkboxes
+    id: browser
+    attributes:
+      label: Which browsers are affected?
+      description: Check all that apply
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - IE11
+        - Other 
+    validations:
+      required: true
+  - type: Your socials and portfolio
+    id: socials
+    attributes:
+      label: Please add your socials and portfolio
+      description: Please add your socials and portfolio
+      value: |
+        - Twitter:https://twitter.com/zevireinitz
+        - GitHub: 
+        - LinkedIn:
+        - Portfolio:
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        If you have any questions, please contact @zevireinitz
