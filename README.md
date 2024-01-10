@@ -34,7 +34,7 @@ You are a "Dev Influencer" in our eyes if you check the following boxes:
 
 <br>
 
-# The Dev Influencers
+# 🤩 The Dev Influencers
 
 | Profile Picture | Name | Niche | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
