@@ -1,48 +1,73 @@
-name: List my profile
-description: Add your name to the list of most qulified dev influencers in the world
-title: "Add my name to the list - <your name>"
+name: Add your name to the list
+description: Add your name to the list of trusted Dev Influencers open to collaborations
+title: "Please add me to the list! - <your name>"
 labels: ["profile"]
 body:
   - type: input
     attributes:
-      label: What is your name?
+      label: What is your  name?
       description: Please enter your full name
     validations:
       required: true
   - type: dropdown
     attributes:
-      label: What is your niche?
-      description: Please select your niche
+      label: What is the focus of your content?
+      description: Please select up to 4 areas of expertise
       multiple: true
       options:
         - Open Source
+        - Dev Tools
         - DevOps
-        - Data Science
-        - Machine Learning
-        - AI
+        - AI/ML
         - Kubernetes
         - Docker
-        - Security
+        - Cybersecurity
         - Dev Marketing
         - Other
       default: 0
     validations:
       required: true
+   - type: input
+    id: github
+    attributes:
+      label: Your Github profile link
+      description: Please add the link to your GitHub profile
+      value: |
+        - GitHub: https://github.com/zevireinitz/
   - type: textarea
     id: socials
     attributes:
-      label: Please add your socials and portfolio
-      description: Please add your socials and portfolio
+      label: Your social links
+      description: Please add your 3 most active social links
       value: |
-        - Twitter:https://twitter.com/zevireinitz
-        - GitHub: https://twitter.com/ZeviReinitz
+        - YouTube: https://www.youtube.com/@getlivecycle
+        - Twitter: https://twitter.com/zevireinitz
         - LinkedIn: https://www.linkedin.com/in/zevi
-        - Portfolio: https://zevi.super.site
-        -
         -
     validations:
       required: false
+      - type: input
+    id: audience
+    attributes:
+      label: Your total audience size
+      description: How many subscribers/followers do you have across all platforms? Please send one number.
+      value: |
+        - Total followers: 100K
+        -
+    validations:
+      required: false
+- type: input
+    id: portfolio
+    attributes:
+      label: Your portfolio site
+      description: Please add a link to your portfolio so people can review and easily contact you
+      value: |
+        -  Portfolio: https://zevi.super.site
+        -
+    validations:
+      required: false
+
   - type: markdown
     attributes:
       value: |
-        If you have any questions, please contact @zevireinitz
+        We review each application and include as many applicants as possible, but we can't make any blanket guarantees. If you have any questions, please contact us at [influencerdotdev@gmail.com](mailto:influencerdotdev@gmail.com)
