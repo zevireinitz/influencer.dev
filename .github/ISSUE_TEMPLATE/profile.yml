@@ -57,7 +57,7 @@ body:
     validations:
       required: false
       
-- type: input
+  - type: input
     id: portfolio
     attributes:
       label: Your portfolio site
