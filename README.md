@@ -35,6 +35,7 @@ You are a "Dev Influencer" in our eyes if you check the following boxes:
 <br>
 
 # 🤩 **The Dev Influencers**
+Listed in alphabetical order (of last name). Search/filters are coming soon :-)
 
 | Profile Picture | Name | Expertise | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
