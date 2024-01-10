@@ -1,3 +1,6 @@
+
+![influencer dev-header-2](https://github.com/zevireinitz/influencer.dev/assets/92805730/ff6b67f7-6e95-4539-88c5-1d260e42037d)
+
 # Welcome to influencer.dev 👋
 
 **influencer.dev is a directory of "Dev Influencers" (technical humans who create quality content for their dev-centric audience).**
@@ -31,7 +34,7 @@ You are a "Dev Influencer" in our eyes if you check the following boxes:
 
 <br>
 
-# The Dev Influencers
+# 🤩 The Dev Influencers
 
 | Profile Picture | Name | Niche | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
