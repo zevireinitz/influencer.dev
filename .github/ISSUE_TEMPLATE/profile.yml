@@ -32,8 +32,8 @@ body:
     attributes:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
-      value: |
-        - GitHub: https://github.com/zevireinitz/
+      # value: |
+      #   - GitHub: https://github.com/zevireinitz/
   - type: textarea
     id: socials
     attributes:
@@ -51,9 +51,9 @@ body:
     attributes:
       label: Your total audience size
       description: How many subscribers/followers do you have across all platforms? Please send one number.
-      value: |
-        - Total followers: 100K
-        -
+      # value: |
+      #   - Total followers: 100K
+      #   -
     validations:
       required: false
 - type: input
@@ -61,9 +61,9 @@ body:
     attributes:
       label: Your portfolio site
       description: Please add a link to your portfolio so people can review and easily contact you
-      value: |
-        -  Portfolio: https://zevi.super.site
-        -
+      # value: |
+      #   -  Portfolio: https://zevi.super.site
+      #   -
     validations:
       required: false
 
