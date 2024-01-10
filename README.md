@@ -1,3 +1,5 @@
+![influencer dev](https://github.com/zevireinitz/influencer.dev/assets/92805730/7a345631-2db1-4e72-8218-f8a76287cab4)
+
 # Welcome to influencer.dev 👋
 
 **influencer.dev is a directory of "Dev Influencers" (technical humans who create quality content for their dev-centric audience).**
