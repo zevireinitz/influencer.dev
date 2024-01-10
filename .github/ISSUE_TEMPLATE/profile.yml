@@ -5,7 +5,7 @@ labels: ["profile"]
 body:
   - type: input
     attributes:
-      label: What is your  name?
+      label: What is your name?
       description: Please enter your full name
     validations:
       required: true
@@ -27,14 +27,13 @@ body:
       default: 0
     validations:
       required: true
-
   - type: input
     id: github
     attributes:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
-      # value: https://github.com/zevireinitz
-
+      value: |
+        - GitHub: https://github.com/zevireinitz/
   - type: textarea
     id: socials
     attributes:
@@ -46,3 +45,25 @@ body:
         - LinkedIn: https://www.linkedin.com/in/zevi
     validations:
       required: false
+  - type: input
+    id: audience
+    attributes:
+      label: Your total audience size
+      description: How many subscribers/followers do you have across all platforms? Please send one number.
+      value: |
+        - Total followers: 100K
+    validations:
+      required: false
+  - type: input
+    id: portfolio
+    attributes:
+      label: Your portfolio site
+      description: Please add a link to your portfolio so people can review and easily contact you
+      value: |
+        - Portfolio: https://zevi.super.site
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        We review each application and include as many applicants as possible, but we can't make any blanket guarantees. If you have any questions, please contact us at [influencerdotdev@gmail.com](mailto:influencerdotdev@gmail.com)
