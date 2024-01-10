@@ -1,5 +1,6 @@
 
-![influencer dev-header](https://github.com/zevireinitz/influencer.dev/assets/92805730/95d43c5e-bf7f-44b8-b226-cd8b798d2e95)
+![influencer dev (1)](https://github.com/zevireinitz/influencer.dev/assets/92805730/85ffa0d8-5046-49c7-b92a-202ceefda98b)
+
 
 # Welcome to influencer.dev 👋
 
