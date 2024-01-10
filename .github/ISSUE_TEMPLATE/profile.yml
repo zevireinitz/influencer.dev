@@ -33,7 +33,7 @@ body:
     attributes:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
-      value: https://github.com/zevireinitz
+      # value: https://github.com/zevireinitz
       
   - type: textarea
     id: socials
