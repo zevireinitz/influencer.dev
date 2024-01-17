@@ -1,4 +1,3 @@
-
 ![influencer dev-header3](https://github.com/zevireinitz/influencer.dev/assets/92805730/4d85d23d-5c9e-41cf-bfe7-0dfa8b44dc30)
 
 # 👋 **influencer.dev**
@@ -46,8 +45,6 @@ Listed in alphabetical order (of last name). Search/filters are coming soon :-)
 | <img src="https://github.com/zevireinitz.png" width="100" > | [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@zevireinitz)](https://twitter.com/zevireinitz) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/zevir) | [Portfolio](https://zevi.super.site/) |
 | <img src="https://github.com/Pradumnasaraf.png" width="100" > | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 60k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumna_saraf)](https://twitter.com/pradumna_saraf) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
-# 💡 **What the columns mean**
-
 - **Name** = Name + Github profile link
 - **Expertise** = The main topics they like to talk about
 - **Audience** = Total (estimated) number of followers/subscribers across their main channels
@@ -71,3 +68,6 @@ Do you (or someone you know) want to be listed here? Here's how to apply:
 - 🙋‍♂️ Raise an issue [here](https://github.com/zevireinitz/influencer.dev/issues/new?assignees=&labels=profile&projects=&template=profile.yml&title=Add+my+name+to+the+list+-+%3Cyour+name%3E) with the relevant details
 
 We review the details of each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
+
+# 😎 **About me**
+I’m [Zevi](https://github.com/zevireinitz) head of marketing at [Livecycle](https://livecycle.io/).

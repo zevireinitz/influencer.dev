@@ -33,17 +33,17 @@ body:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
       value: |
-        - GitHub: 
+        GitHub: 
   - type: textarea
     id: socials
     attributes:
       label: Your social links
       description: Please add your 3 most active social links
       value: |
-        - YouTube: 
-        - Twitter: 
-        - LinkedIn:
-        - Anything else...: 
+        YouTube: 
+        Twitter: 
+        LinkedIn:
+        Anything else...: 
     validations:
       required: false
   - type: input
@@ -52,7 +52,7 @@ body:
       label: Your total audience size
       description: How many subscribers/followers do you have across all platforms? Please send one number.
       value: |
-        - Total followers: 100K
+        - Total followers:
     validations:
       required: false
   - type: input
@@ -61,7 +61,7 @@ body:
       label: Your portfolio site
       description: Please add a link to your portfolio so people can review and easily contact you
       value: |
-        - Portfolio: 
+        Portfolio: 
     validations:
       required: false
   - type: markdown
