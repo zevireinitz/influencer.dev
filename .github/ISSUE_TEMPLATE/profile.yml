@@ -33,16 +33,17 @@ body:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
       value: |
-        - GitHub: https://github.com/zevireinitz/
+        - GitHub: 
   - type: textarea
     id: socials
     attributes:
       label: Your social links
       description: Please add your 3 most active social links
       value: |
-        - YouTube: https://www.youtube.com/@getlivecycle
-        - Twitter: https://twitter.com/zevireinitz
-        - LinkedIn: https://www.linkedin.com/in/zevi
+        - YouTube: 
+        - Twitter: 
+        - LinkedIn:
+        - Anything else...: 
     validations:
       required: false
   - type: input
@@ -60,7 +61,7 @@ body:
       label: Your portfolio site
       description: Please add a link to your portfolio so people can review and easily contact you
       value: |
-        - Portfolio: https://zevi.super.site
+        - Portfolio: 
     validations:
       required: false
   - type: markdown

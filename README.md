@@ -1,5 +1,5 @@
 
-![influencer dev-header3](https://github.com/zevireinitz/influencer.dev/assets/92805730/967f55dd-f214-4c48-8372-51477f2f03e2)
+![influencer dev-header3](https://github.com/zevireinitz/influencer.dev/assets/92805730/4d85d23d-5c9e-41cf-bfe7-0dfa8b44dc30)
 
 # 👋 **influencer.dev**
 
@@ -8,7 +8,7 @@
 - If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
 
 # 👷 **Why We Built This**
-Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are alo open to collaborations.
+Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are also open to collaborations (paid or unpaid).
 
 At the same time, lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
 
