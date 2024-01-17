@@ -1,4 +1,8 @@
+<div align="center">
+
 ![influencer dev-header3](https://github.com/zevireinitz/influencer.dev/assets/92805730/4d85d23d-5c9e-41cf-bfe7-0dfa8b44dc30)
+
+</div>
 
 # 👋 **influencer.dev**
 
@@ -36,6 +40,8 @@ You are a "Dev Influencer" in our eyes if you check the following boxes:
 # 🤩 **The Dev Influencers**
 Listed in alphabetical order (of last name). Search/filters are coming soon :-)
 
+
+
 | Profile Picture | Name | Expertise | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
 | <img src="https://github.com/bretfisher.png" width="100" > | [Bret Fisher](https://github.com/bretfisher) | `DevOps` `Kubernetes` `Docker` | 230k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@bretfisher)](https://twitter.com/bretfisher) <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BretFisher) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bretefisher/) | [Portfolio](https://www.bretfisher.com/) |
@@ -44,6 +50,8 @@ Listed in alphabetical order (of last name). Search/filters are coming soon :-)
 | <img src="https://github.com/kunal-kushwaha.png" width="100" > | [Kunal Kushwaha](https://github.com/kunal-kushwaha) | `DevOps` `Kubernetes` | 1 Million | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@kunalstwt)](https://twitter.com/kunalstwt) <br> [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kunalkushwaha) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kushwaha) | [Community](https://wemakedevs.org/) |
 | <img src="https://github.com/zevireinitz.png" width="100" > | [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@zevireinitz)](https://twitter.com/zevireinitz) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/zevir) | [Portfolio](https://zevi.super.site/) |
 | <img src="https://github.com/Pradumnasaraf.png" width="100" > | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 60k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumna_saraf)](https://twitter.com/pradumna_saraf) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
+
+
 
 - **Name** = Name + Github profile link
 - **Expertise** = The main topics they like to talk about
