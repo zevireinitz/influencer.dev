@@ -27,6 +27,21 @@ body:
       default: 0
     validations:
       required: true
+  - type: dropdown
+    attributes:
+      label: What type of content do you produce?
+      description: Please select the most relevant content types
+      multiple: true
+      options:
+        - Video
+        - Podcast
+        - Blogs/articles
+        - Newsletter
+        - Social activity
+        - Other
+      default: 0
+    validations:
+      required: true
   - type: input
     id: github
     attributes:
