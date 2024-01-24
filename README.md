@@ -51,8 +51,6 @@ Listed in alphabetical order (of last name). Search/filters are coming soon :-)
 | <img src="https://github.com/zevireinitz.png" width="100" > | [Zevi Reinitz](https://github.com/zevireinitz) | `Marketing` `Devtools` `Open Source` | 10k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@zevireinitz)](https://twitter.com/zevireinitz) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zevi/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/zevir) | [Portfolio](https://zevi.super.site/) |
 | <img src="https://github.com/Pradumnasaraf.png" width="100" > | [Pradumna Saraf](https://github.com/Pradumnasaraf) | `DevOps` `Docker` `Open Source` | 60k | [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=@pradumna_saraf)](https://twitter.com/pradumna_saraf) <br> [![LI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradumnasaraf/) <br> [![Devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/pradumnasaraf) | [Portfolio](https://pradumnasaraf.dev/) |
 
-
-
 - **Name** = Name + Github profile link
 - **Expertise** = The main topics they like to talk about
 - **Audience** = Total (estimated) number of followers/subscribers across their main channels
@@ -77,5 +75,21 @@ Do you (or someone you know) want to be listed here? Here's how to apply:
 
 We review the details of each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
 
+# 🤟 **What's in it for you**
+This project is early-stage and that means there's a ton of value available to early adopters:
+
+**For influencers & content creators**
+- We're showcasing you through all of our channels
+- We're offering (free) 1-on-1 sessions to help further boost your branding, marketing and content creation 
+- We'll send you first-priority projects and job-opps from dev-centric brands who want to collaborate
+**For dev-centric brands**
+- We're giving you visibility to creators and influencers who can help you promote your products to your target audience in an authentic way
+- We'll distribute your relevant projects and jobopps to our influencer community, making it easier for you to find the right people
+**For everyone else**
+- This is a great way to find people who create great technical content on topics you love
+- If you're thinking about becoming a creator and sharing your experience and insights, this is a great place to get inspired and get started!
+
 # 😎 **About me**
-I’m [Zevi](https://github.com/zevireinitz) head of marketing at [Livecycle](https://livecycle.io/).
+I’m [Zevi](https://github.com/zevireinitz) head of marketing at [Livecycle](https://livecycle.io/). 
+
+Follow influencer.dev on [X (Twitter)!](https://twitter.com/influencer_dev)
