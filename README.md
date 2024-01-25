@@ -79,14 +79,18 @@ We review the details of each applicant to ensure this list remains a high-quali
 # 🤟 **What's in it for you**
 This project is early-stage and that means there's a ton of value available to early adopters:
 
-**For influencers & content creators**
+**Influencers & content creators:**
+- [Click here](https://forms.gle/WusVnVcHKT97CqVb8) to subscribe to the exclusive influencer.dev mailing list
 - We're showcasing you through all of our channels
 - We're offering (free) 1-on-1 sessions to help further boost your branding, marketing and content creation 
 - We'll send you first-priority projects and job-opps from dev-centric brands who want to collaborate
-**For dev-centric brands**
+
+**For dev-centric brands:**
+- [Click here](https://forms.gle/by3po2Qa2X8qptEr8) to pitch your projects to the Influencer.dev community!
 - We're giving you visibility to creators and influencers who can help you promote your products to your target audience in an authentic way
 - We'll distribute your relevant projects and jobopps to our influencer community, making it easier for you to find the right people
-**For everyone else**
+
+**For everyone else:**
 - This is a great way to find people who create great technical content on topics you love
 - If you're thinking about becoming a creator and sharing your experience and insights, this is a great place to get inspired and get started!
 
