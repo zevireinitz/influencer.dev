@@ -22,6 +22,7 @@ body:
         - Kubernetes
         - Docker
         - Cybersecurity
+        - Webassembly
         - Dev Marketing
         - Other
       default: 0
@@ -67,7 +68,7 @@ body:
       label: Your total audience size
       description: How many subscribers/followers do you have across all platforms? Please send one number.
       value: |
-        - Total followers:
+        Total followers:
     validations:
       required: false
   - type: input
@@ -82,4 +83,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        
         We review each application and include as many applicants as possible, but we can't make any blanket guarantees. If you have any questions, please contact us at [influencerdotdev@gmail.com](mailto:influencerdotdev@gmail.com)
+
+        Please also subscribe to the exclusive [influencer.dev mailing list](https://forms.gle/jFK8Xj6WMjb7ZMb69) to receive job/project opportunities that we've recived from companies in the industry. It's an easy way to find collaboration opportunities that fit your expertise and skill set.
+        
