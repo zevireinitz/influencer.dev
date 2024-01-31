@@ -6,41 +6,18 @@
 
 # 👋 **influencer.dev**
 
-**influencer.dev is a directory of "Dev Influencers" (technical humans who create quality content for their dev-centric audience).**
-- If you create content for developers and you're open to collaborations - you belong on the list below.
-- If you're looking for someone to create technical, dev-centric content for/about your company or product - check out the list below.
+**influencer.dev is a directory of dev-centric content creators.**
+- If you create content for developers and you're open to collaborations, follow these 3 steps:
+  1. [Open a Github issue with your details](https://github.com/zevireinitz/influencer.dev/issues/new?assignees=&labels=profile&projects=&template=profile.yml&title=Add+my+name+to+the+list+-+%3Cyour+name%3E) so we can add you to the list.
+  2. [Send us your email address](https://forms.gle/WusVnVcHKT97CqVb8) so we can include you in the project/collaboration opportunities that we receive from companies
+  3. ⭐ Star this repo so that more people find this list
 
-# 👷 **Why We Built This**
-Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are also open to collaborations (paid or unpaid).
-
-At the same time, lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
-
-_**But it's hard for these two groups to find each other.**_
-
-That's the problem we're solving with influencer.dev - an open-source marketplace for dev influencer collaboration. It allows technical content creators to promote themselves to relevant brands and it enables brands to easily connect with the most relevant creators for their target audience.
-
-<div align="center">
-
-  <img src="https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3">
-
-</div>
-
-<br>
-
-# 🤔 **Who is a "Dev Influencer"?**
-You are a "Dev Influencer" in our eyes if you check the following boxes:
-- ✅ You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
-- ✅ You have specific technical areas of expertise that you focus on with your content
-- ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
-- ✅ You are interested in working with brands/companies to create content related to their dev-focused products
-- 💡 _Note that we didn't say anything about audience size. We don't care about how many followers you have. As long as you can demonstrate that you are publishing quality, technical content for a technical audience under your own name, you're eligible to be included in the list._  
-
-<br>
+- If you're looking for dev-centric content creators (to follow or collaborate with):
+  1.  Enjoy the curated list below.
+  2. [Tell us your about your upcoming projects](https://forms.gle/by3po2Qa2X8qptEr8) and we'll pitch it to our growing Influencer.dev community of dev content creators.
 
 # 🤩 **The Dev Influencers**
 Listed in alphabetical order (of last name). Search/filters are coming soon :-)
-
-
 
 | Profile Picture | Name | Expertise | Audience | Channels | Link |
 |----| --------------- | ---------- | :-------: | ---------- | :-------: |
@@ -77,6 +54,33 @@ Do you (or someone you know) want to be listed here? Here's how to apply:
 - 🙋‍♂️ Raise an issue [here](https://github.com/zevireinitz/influencer.dev/issues/new?assignees=&labels=profile&projects=&template=profile.yml&title=Add+my+name+to+the+list+-+%3Cyour+name%3E) with the relevant details
 
 We review the details of each applicant to ensure this list remains a high-quality collection of creators. We can't guarantee that every suggestion will be included, but we'll do our best to include as many qualified candidates as we can, based on the guidelines above above.
+
+# 👷 **Why We Built This**
+Lots of technical folks have built niche audiences around their content (making them "dev influencers"). Many of these influencers are also open to collaborations (paid or unpaid).
+
+At the same time, lots of brands are looking for the right influencers and content creators to review and promote their dev-focused products.
+
+_**But it's hard for these two groups to find each other.**_
+
+That's the problem we're solving with influencer.dev - an open-source marketplace for dev influencer collaboration. It allows technical content creators to promote themselves to relevant brands and it enables brands to easily connect with the most relevant creators for their target audience.
+
+<div align="center">
+
+  <img src="https://github.com/zevireinitz/influencer.dev/assets/92805730/a938fff0-8a64-4cd7-ae3f-1b593bb348b3">
+
+</div>
+
+<br>
+
+# 🤔 **Who is a "Dev Influencer"?**
+You are a "Dev Influencer" in our eyes if you check the following boxes:
+- ✅ You are currently and consistently creating quality content for developers (you need to be able to show off your work to other people)
+- ✅ You have specific technical areas of expertise that you focus on with your content
+- ✅ You publish your content on mainstream platforms under your personal name/brand (and not as a ghostwriter)
+- ✅ You are interested in working with brands/companies to create content related to their dev-focused products
+- 💡 _Note that we didn't say anything about audience size. We don't care about how many followers you have. As long as you can demonstrate that you are publishing quality, technical content for a technical audience under your own name, you're eligible to be included in the list._  
+
+<br>
 
 # 🤟 **What's in it for you**
 This project is early-stage and that means there's a ton of value available to early adopters:
