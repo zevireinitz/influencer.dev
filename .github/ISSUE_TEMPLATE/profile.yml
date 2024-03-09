@@ -1,6 +1,6 @@
 name: Add your name to the list
 description: Add your name to the list of trusted Dev Influencers open to collaborations
-title: "Please add me to the list! - <your name>"
+title: "Please add me to the list! - Raghul M"
 labels: ["profile"]
 body:
   - type: input
@@ -9,6 +9,7 @@ body:
       description: Please enter your full name
     validations:
       required: true
+    value: "Raghul M"
   - type: dropdown
     attributes:
       label: What is the focus of your content?
@@ -27,7 +28,14 @@ body:
         - Other
       default: 0
     validations:
-      required: true
+      required: 
+    value: 
+    - "Open Source"
+    - "DevOps"
+    - "AI/ML"
+    - "Other"
+
+    
   - type: dropdown
     attributes:
       label: What type of content do you produce?
@@ -43,23 +51,27 @@ body:
       default: 0
     validations:
       required: true
+    value: 
+    - "Blogs/articles"
+
   - type: input
     id: github
     attributes:
       label: Your Github profile link
       description: Please add the link to your GitHub profile
       value: |
-        GitHub: 
+        GitHub: https://github.com/Raghul-M
   - type: textarea
     id: socials
     attributes:
       label: Your social links
       description: Please add your 3 most active social links
       value: |
-        YouTube: 
-        Twitter: 
-        LinkedIn:
-        Anything else...: 
+        YouTube: https://youtu.be/Ey-4qenjyTs?si=onOPpjdXhiS1Daxn
+        Twitter: https://twitter.com/RaghulM01
+        LinkedIn: https://www.linkedin.com/in/m-raghul/
+        Dev.to: https://dev.to/raghul
+        Anything else...:
     validations:
       required: false
   - type: input
@@ -68,7 +80,7 @@ body:
       label: Your total audience size
       description: How many subscribers/followers do you have across all platforms? Please send one number.
       value: |
-        Total followers:
+        Total followers: 1.2k
     validations:
       required: false
   - type: input
@@ -77,7 +89,7 @@ body:
       label: Your portfolio site
       description: Please add a link to your portfolio so people can review and easily contact you
       value: |
-        Portfolio: 
+        Portfolio: https://raghul-m.github.io/
     validations:
       required: false
   - type: markdown
